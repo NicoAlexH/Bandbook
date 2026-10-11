@@ -1,0 +1,475 @@
+[
+    {
+        "slug": "after-the-rain",
+        "title": "After the Rain",
+        "artist": "The Sunday Hours",
+        "key": "G",
+        "bpm": 96,
+        "meter": "4/4",
+        "mood": "Indie folk",
+        "duration": "3:42",
+        "note": "Start quietly. Build into the last chorus, then let the final chord ring.",
+        "sections": [
+            {
+                "id": "intro",
+                "name": "Intro",
+                "bars": 4,
+                "energy": "Quiet",
+                "lines": [
+                    {
+                        "chord": "G",
+                        "lyric": "Streetlights settle on the road"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "A silver line beside our home"
+                    },
+                    {
+                        "chord": "Em",
+                        "lyric": "We count the windows one by one"
+                    },
+                    {
+                        "chord": "C",
+                        "lyric": "And wait for morning to come"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Rest for the intro. These guide lyrics mark the melody; enter at Verse 1.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Set the mood with spacious broken chords. Give a clear breath before Verse 1.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "verse-1",
+                "name": "Verse 1",
+                "bars": 8,
+                "energy": "Gentle",
+                "lines": [
+                    {
+                        "chord": "G",
+                        "lyric": "I left a light beside the door"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "Your coat still resting on the floor"
+                    },
+                    {
+                        "chord": "Em",
+                        "lyric": "The city shakes the water free"
+                    },
+                    {
+                        "chord": "C",
+                        "lyric": "And brings your footsteps back to me"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "chorus-1",
+                "name": "Chorus",
+                "bars": 8,
+                "energy": "Open up",
+                "lines": [
+                    {
+                        "chord": "C",
+                        "lyric": "After the rain, we start again"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "Two paper boats around the bend"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "Carry the night out to the sea"
+                    },
+                    {
+                        "chord": "Em",
+                        "lyric": "Leave a little light for me"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "verse-2",
+                "name": "Verse 2",
+                "bars": 8,
+                "energy": "Steady",
+                "lines": [
+                    {
+                        "chord": "G",
+                        "lyric": "The kettle sings a softer tune"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "We watch the clouds make room for blue"
+                    },
+                    {
+                        "chord": "Em",
+                        "lyric": "No grand return, no words to find"
+                    },
+                    {
+                        "chord": "C",
+                        "lyric": "Just your warm hand folded in mine"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "chorus-2",
+                "name": "Final chorus",
+                "bars": 8,
+                "energy": "Full band",
+                "lines": [
+                    {
+                        "chord": "C",
+                        "lyric": "After the rain, we start again"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "Two paper boats around the bend"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "Carry the night out to the sea"
+                    },
+                    {
+                        "chord": "Em",
+                        "lyric": "Leave a little light for me"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Add the high harmony. Open the vowels and sustain the last phrase.",
+                    "Guitarist": "Both guitars open up. Guitar 1: full strum. Guitar 2: melodic answer after each line.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Open the hi-hat slightly. Add a short fill in the last bar to cue the outro."
+                }
+            },
+            {
+                "id": "outro",
+                "name": "Outro",
+                "bars": 4,
+                "energy": "Let it ring",
+                "lines": [
+                    {
+                        "chord": "C",
+                        "lyric": "Leave a little light for me"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "Where the road meets the sea"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "Let the morning find us here"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "Let the morning find us here"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            }
+        ]
+    },
+    {
+        "slug": "midnight-platform",
+        "title": "Midnight Platform",
+        "artist": "The Sunday Hours",
+        "key": "Am",
+        "bpm": 112,
+        "meter": "4/4",
+        "mood": "Soul / groove",
+        "duration": "4:08",
+        "note": "Bass and percussion lead the groove. Keep the verses tight and the chorus wide.",
+        "sections": [
+            {
+                "id": "intro",
+                "name": "Intro",
+                "bars": 4,
+                "energy": "Pocket",
+                "lines": [
+                    {
+                        "chord": "Am",
+                        "lyric": "Last train humming down the line"
+                    },
+                    {
+                        "chord": "Am",
+                        "lyric": "Neon painting borrowed time"
+                    },
+                    {
+                        "chord": "F",
+                        "lyric": "Footsteps falling into place"
+                    },
+                    {
+                        "chord": "E7",
+                        "lyric": "Midnight has a steady pace"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Rest for the intro. These guide lyrics mark the melody; enter at Verse 1.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Set the mood with spacious broken chords. Give a clear breath before Verse 1.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "verse-1",
+                "name": "Verse 1",
+                "bars": 8,
+                "energy": "Tight",
+                "lines": [
+                    {
+                        "chord": "Am",
+                        "lyric": "You drew a map upon your sleeve"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "Of every town we ought to see"
+                    },
+                    {
+                        "chord": "F",
+                        "lyric": "I kept the tickets in my shoes"
+                    },
+                    {
+                        "chord": "E7",
+                        "lyric": "And found a rhythm in the blues"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "chorus-1",
+                "name": "Chorus",
+                "bars": 8,
+                "energy": "Lift",
+                "lines": [
+                    {
+                        "chord": "F",
+                        "lyric": "Meet me where the rails run bright"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "We have got the whole of night"
+                    },
+                    {
+                        "chord": "Am",
+                        "lyric": "No tomorrow set in stone"
+                    },
+                    {
+                        "chord": "E7",
+                        "lyric": "Every mile a way back home"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "outro",
+                "name": "Outro",
+                "bars": 4,
+                "energy": "Fade gently",
+                "lines": [
+                    {
+                        "chord": "F",
+                        "lyric": "Every mile a way back home"
+                    },
+                    {
+                        "chord": "E7",
+                        "lyric": "Every mile a way back home"
+                    },
+                    {
+                        "chord": "Am",
+                        "lyric": "Hear the midnight engine sigh"
+                    },
+                    {
+                        "chord": "Am",
+                        "lyric": "Watch the platform drifting by"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            }
+        ]
+    },
+    {
+        "slug": "hold-the-horizon",
+        "title": "Hold the Horizon",
+        "artist": "The Sunday Hours",
+        "key": "D",
+        "bpm": 78,
+        "meter": "4/4",
+        "mood": "Piano ballad",
+        "duration": "3:56",
+        "note": "Piano opens alone. Bring in the harmonies on the chorus; finish together on the leader’s cue.",
+        "sections": [
+            {
+                "id": "intro",
+                "name": "Intro",
+                "bars": 4,
+                "energy": "Spacious",
+                "lines": [
+                    {
+                        "chord": "D",
+                        "lyric": "Morning on an empty shore"
+                    },
+                    {
+                        "chord": "A",
+                        "lyric": "Something worth returning for"
+                    },
+                    {
+                        "chord": "Bm",
+                        "lyric": "Breathe until the air feels new"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "There is still a place for you"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Rest for the intro. These guide lyrics mark the melody; enter at Verse 1.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Set the mood with spacious broken chords. Give a clear breath before Verse 1.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "verse-1",
+                "name": "Verse 1",
+                "bars": 8,
+                "energy": "Soft",
+                "lines": [
+                    {
+                        "chord": "D",
+                        "lyric": "We built a house of little things"
+                    },
+                    {
+                        "chord": "A",
+                        "lyric": "Of open doors and broken strings"
+                    },
+                    {
+                        "chord": "Bm",
+                        "lyric": "The wind can take the words we said"
+                    },
+                    {
+                        "chord": "G",
+                        "lyric": "But not the road that lies ahead"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "chorus-1",
+                "name": "Chorus",
+                "bars": 8,
+                "energy": "Warm",
+                "lines": [
+                    {
+                        "chord": "G",
+                        "lyric": "Hold the horizon in your hands"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "Draw a new line across the sand"
+                    },
+                    {
+                        "chord": "A",
+                        "lyric": "When all the stars forget to shine"
+                    },
+                    {
+                        "chord": "Bm",
+                        "lyric": "Borrow a little hope from mine"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            },
+            {
+                "id": "outro",
+                "name": "Outro",
+                "bars": 4,
+                "energy": "Together",
+                "lines": [
+                    {
+                        "chord": "G",
+                        "lyric": "Borrow a little hope from mine"
+                    },
+                    {
+                        "chord": "A",
+                        "lyric": "We have the tide, we have the time"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "Hold the horizon, hold it near"
+                    },
+                    {
+                        "chord": "D",
+                        "lyric": "There is still a place right here"
+                    }
+                ],
+                "instructions": {
+                    "Singer": "Enter gently after the count-in. Keep the phrase connected; leave room for the harmony.",
+                    "Guitarist": "Guitar 1: light downstrokes. Guitar 2: high voicings, leaving space around the vocal.",
+                    "Bassist": "Follow the displayed roots. Hold each note for a bar and lock in with the kick.",
+                    "Pianist": "Use open chord voicings. Keep the left hand sparse beneath the vocal.",
+                    "Percussionist": "Soft kick on 1 and 3, rim on 2 and 4. Keep the eighth notes relaxed."
+                }
+            }
+        ]
+    }
+]
